@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arthur-praca
-- 👀 I’m interested in helping clients and colleague.
+- 👀 I’m interested in helping clients and colleagues.
 - 🌱 I’m currently learning C/C++, Python, Network.
 - 💞️ I’m looking to collaborate on web hosting.
 - 📫 How to reach me arthur.praca@hostinger.com
